@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+relatorio/capturas/
+relatorio/_tmp/
+relatorio/_relatorio.html
